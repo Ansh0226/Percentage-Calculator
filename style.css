@@ -1,0 +1,16 @@
+.cal {
+    display: block;
+    background-color: aqua;
+    margin: 150px;
+    text-align: center;
+    
+}
+.inner_box{
+    display: block;
+    align-content: center;
+}
+input{
+    margin: 0px 0px 40px 0px;
+    display: inline-table;
+    line-height: normal;
+}
